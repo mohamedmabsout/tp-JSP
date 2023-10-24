@@ -4,9 +4,9 @@ Ce projet est une application web basée sur JavaServer Pages (JSP) qui est dép
 
 ## Configuration requise
 
-- [GlassFish Server 4.1](https://javaee.github.io/glassfish/)
-- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-downloads.html)
-- Un environnement de développement intégré (IDE) tel que [Eclipse](https://www.eclipse.org/downloads/) ou [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
+- GlassFish Server 4.1
+- Java Development Kit (JDK)
+- Un environnement de développement intégré (IDE) tel que Eclipse ou Netbeans
 
 ## Les fonctionnalités
 1-Ajout d'une machine
