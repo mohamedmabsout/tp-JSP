@@ -14,7 +14,7 @@ Ce projet est une application web basée sur JavaServer Pages (JSP) qui est dép
 2-La suppression d'une machine
 
 
-## Screenshots
+## Interfaces des machines
 <img width="788" alt="mabsout" src="https://github.com/mohamedmabsout/tp-JSP/assets/147514368/a1a44af6-918c-4fa7-9097-18b1c7972cdc">
 
 
